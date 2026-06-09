@@ -1,0 +1,28 @@
+[boost]
+  url=git@github.com:motis-project/boost.git
+  branch=boost-1.89.0
+  commit=77467bf580d98ea06716e2931cbe3b1f28e0cd37
+[geo]
+  url=git@github.com:motis-project/geo.git
+  branch=master
+  commit=cf38581dcb2a7ddaf9c96a3cb147a44f89893952
+[googletest]
+  url=git@github.com:motis-project/googletest.git
+  branch=master
+  commit=9758d168fd1ccff2d76f3bd6ef802943d0f8f7e5
+[res]
+  url=git@github.com:motis-project/res.git
+  branch=master
+  commit=b759b93316afeb529b6cb5b2548b24c41e382fb0
+[rtree.c]
+  url=git@github.com:triptix-tech/rtree.c.git
+  branch=master
+  commit=855982edf7efbba1798bacfea12997bf541f5661
+[tg]
+  url=git@github.com:triptix-tech/tg.git
+  branch=main
+  commit=a39dc712a51bf95842fba365412e1dfdced55798
+[utl]
+  url=git@github.com:motis-project/utl.git
+  branch=master
+  commit=d9930c90e440df761c8c4916c36072de9dd00f49

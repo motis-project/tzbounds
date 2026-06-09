@@ -1,0 +1,13 @@
+BasedOnStyle: Google
+IndentWidth: 2
+Language: Cpp
+DerivePointerAlignment: false
+PointerAlignment: Left
+AccessModifierOffset: -2
+ConstructorInitializerAllOnOneLineOrOnePerLine: true
+AlignTrailingComments: false
+KeepEmptyLinesAtTheStartOfBlocks: true
+AllowShortCaseLabelsOnASingleLine: true
+AlwaysBreakTemplateDeclarations: true
+SpacesBeforeTrailingComments: 2
+IncludeBlocks: Preserve
