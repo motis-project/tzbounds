@@ -21,7 +21,7 @@
 [tg]
   url=git@github.com:triptix-tech/tg.git
   branch=main
-  commit=40d3c826ac2ce28163684b635b6cd681492e1873
+  commit=20c0f298b8ce58de29a790290f44dca7c4ecc364
 [utl]
   url=git@github.com:motis-project/utl.git
   branch=master
