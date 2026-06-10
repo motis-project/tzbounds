@@ -26,4 +26,8 @@ target_link_libraries(tzbounds
 )
 
 add_executable(tzbounds-test test/timezones_test.cc)
-target_link_libraries(tzbounds-test PRIVATE tzbounds gtest_main)
+target_link_libraries(tzbounds-test PRIVATE
+        tzbounds
+        tzbounds_timezones-res
+        gtest_main
+)
